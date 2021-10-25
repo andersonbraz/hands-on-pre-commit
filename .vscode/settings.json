@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "code-runner.executorMap": {
+        "python": ".venv/bin/python",
+    },
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.flake8Enabled": true,
+    
+
+    "[python]": {
+        "editor.formatOnSave": true,
+    },
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestPath": ".venv/bin/python",
+}
