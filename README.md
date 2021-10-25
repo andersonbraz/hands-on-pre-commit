@@ -4,7 +4,7 @@
 ## Criar ambiente virtual do projeto
 
 ```
-.venv/bin/activate
+python3 -m venv .venv
 ```
 
 ## Ativar ambiente virtual do projeto
