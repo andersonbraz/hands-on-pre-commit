@@ -16,6 +16,7 @@ python3 -m venv .venv
 
 ```
 pip install --upgrade pip
+pip install -U flake8
 ```
 
 ## Instalar pre-commit
