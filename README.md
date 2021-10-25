@@ -17,5 +17,5 @@ python3 -m venv .venv
 ## Instalar pre-commit
 
 ```
-pip intall pre-commit
+pip install pre-commit
 ```
